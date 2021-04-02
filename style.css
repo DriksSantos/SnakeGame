@@ -1,15 +1,10 @@
-*{
-  box-sizing: border-box;
-}
-
 body{
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-body #snake{
-  margin-top: 30px;
-  width: 512px;
-  height: 512px;
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:white;
+    color: rgb(52, 165, 52);
 }
